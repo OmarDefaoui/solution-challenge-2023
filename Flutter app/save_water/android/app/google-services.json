@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47322774431",
+    "project_id": "solution-challenge-2023-94097",
+    "storage_bucket": "solution-challenge-2023-94097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47322774431:android:7ba03bf76cd9b420ea5baa",
+        "android_client_info": {
+          "package_name": "com.example.save_water"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47322774431-qs0t656pmcehebadjj5geedr6gjmh3cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78wOwUesozLN0NDVnM6hvErUjAPlHzko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47322774431-qs0t656pmcehebadjj5geedr6gjmh3cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
